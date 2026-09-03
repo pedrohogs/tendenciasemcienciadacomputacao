@@ -1,19 +1,19 @@
 # Tendências em Ciência da Computação — Plano de Aulas (5W)
 
 ## Quem
-- Professora responsável: Professora Kadidja (conforme nome no plano de aulas).
+- Professora responsável: Professora Kadidja.
 - Público-alvo: estudantes de Ciência da Computação interessados em tendências tecnológicas, especialmente Inteligência Artificial e Engenharia de Prompt.
 - Contribuidores: docentes, monitores e alunos que fornecem materiais, slides e atividades.
 
 ## O quê
 - Materiais do curso: plano de aulas, slides das aulas, atividades e instruções para trabalhos práticos.
 - Conteúdo inicial desta versão:
-  - Plano de Aulas completo (arquivo): PlanodeAulas_Tendencias_EngPrompt_IA_Professora Kadidja_2026_2_5f.pdf
-  - Unidade 1 — Aula 01: Fundamentos de IA e Modelos Generativos (slides): unidade 1/Tendencias_Aula01_FundamentosIA_ModelosGenerativos (1).pdf
+  - Plano de Aulas completo: PlanodeAulas_Tendencias_EngPrompt_IA_Professora Kadidja_2026_2_5f.pdf
+  - Unidade 1 — Aula 01: Fundamentos de IA e Modelos Generativos: unidade 1/Tendencias_Aula01_FundamentosIA_ModelosGenerativos (1).pdf
   - Atividades da Unidade 1: unidade 1/atividades.md
 
 ## Quando
-- Cronograma: organizado por semestre (arquivo do plano indica 2026/2). Cada unidade contém a sequência de aulas e prazos conforme o Plano de Aulas.
+- Cronograma: organizado por semestre (2026/2). Cada unidade contém a sequência de aulas e prazos conforme o Plano de Aulas.
 - Atualizações: novos arquivos e versões das aulas serão adicionados ao longo do semestre conforme planejamento e revisão.
 
 ## Onde
